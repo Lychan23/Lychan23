@@ -15,37 +15,37 @@ I work with a variety of programming languages and technologies:
 <details>
 <summary>Python</summary>
 
-- Brief description or notable projects related to Python.
+- Python.
 </details>
 
 <details>
 <summary>C++</summary>
 
-- Brief description or notable projects related to C++.
+- C++.
 </details>
 
 <details>
 <summary>C#</summary>
 
-- Brief description or notable projects related to C#.
+- C#.
 </details>
 
 <details>
 <summary>JavaScript</summary>
 
-- Brief description or notable projects related to JavaScript.
+- Javascript.
 </details>
 
 <details>
 <summary>HTML</summary>
 
-- Brief description or notable projects related to HTML.
+- HTML.
 </details>
 
 <details>
 <summary>Java</summary>
 
-- Brief description or notable projects related to Java.
+- Java.
 </details>
 
 Feel free to explore my repositories and projects to learn more about my work!
