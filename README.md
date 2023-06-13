@@ -48,6 +48,18 @@ I work with a variety of programming languages and technologies:
 - Java.
 </details>
 
+## Projects
+
+Here are some of my notable projects:
+
+- [Lychan23special](https://github.com/Lychan23/Lychan23special): General posting commits file might not work but working files will not be updated.
+- [Project 2](link): N/A.
+- [Project 3](link): N/A.
+
+Feel free to explore my repositories and projects to learn more about my work!
+
+<!-- Feel free to add any badges or additional sections to showcase your achievements or contributions -->
+
 Feel free to explore my repositories and projects to learn more about my work!
 
 <!-- Feel free to add any badges or additional sections to showcase your achievements or contributions -->
