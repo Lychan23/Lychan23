@@ -53,7 +53,7 @@ I work with a variety of programming languages and technologies:
 Here are some of my notable projects:
 
 - [Lychan23special](https://github.com/Lychan23/Lychan23special): General posting commits file might not work but working files will not be updated.
-- [Project 2](link): N/A.
+- [LyPasswordManager](https://github.com/Lychan23/Simple-Password-Manager-By-Lychan23/tree/v1.0.0): Password manager.
 - [Project 3](link): N/A.
 
 Feel free to explore my repositories and projects to learn more about my work!
